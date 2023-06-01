@@ -53,7 +53,8 @@
 // let firstNum = 12345;
 // let secondNum =98765;
 // let eventual =firstNum * secondNum;
-// console.log(eventual);
+// console.log(eventual.toString()[5]);
+
 
 
 
