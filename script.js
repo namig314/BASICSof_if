@@ -57,7 +57,15 @@
 
 
 
-// EXERCISE 6           unfortunately  i couldnt
+// EXERCISE 6           i guess it is right
+
+// let name = 'Micky'; 
+// let lastname ='Barzini';
+// let query = prompt('please add your lastname and name below');
+// if(query== lastname + ' ' + name){
+//     console.log(`Hi, ${name}!`)
+// }
+
 
 
 
